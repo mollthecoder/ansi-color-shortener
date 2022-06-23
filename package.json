@@ -1,0 +1,24 @@
+{
+  "name": "ansi-color-shortener",
+  "version": "1.0.0",
+  "description": "Adds shortened names to ansi-colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mollthecoder/ansi-color-shortener.git"
+  },
+  "keywords": [
+    "colors",
+    "ansi",
+    "util"
+  ],
+  "author": "MollTheCoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mollthecoder/ansi-color-shortener/issues"
+  },
+  "homepage": "https://github.com/mollthecoder/ansi-color-shortener#readme"
+}
