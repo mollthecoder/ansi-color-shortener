@@ -19,3 +19,4 @@ function shorten(c){
     });
     return c;
 }
+module.exports = shorten;
